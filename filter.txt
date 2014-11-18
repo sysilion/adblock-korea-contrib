@@ -1,10 +1,10 @@
 [AdBlock Plus 1.1]
 !Test
-##div.div-gpt-ad-*
-##div.ad_*
-##div.real_toast
-##div.scrollDiv
-##div[style^="position: fixed; z-index: 1000; width: 100px; height: 100px; left: 20px; top: 260px"]
+##div#div-gpt-ad-*
+##div#ad_*
+##div#real_toast
+##div#scrollDiv
+##div[style=^"position: fixed; z-index: 1000; width: 100px; height: 100px;"]
 ##div[id="ticket_banner"]
 ##div.advertisement spotlight ^
 ##div#isx.neo_container.clear
@@ -22,3 +22,4 @@
 ||cm.keywordsconnect.com^
 ||cas.criteo.com^
 ||tags.mathtag.com^
+||sp1.jssearch.net^
