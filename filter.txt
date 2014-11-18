@@ -1,0 +1,5 @@
+!Test
+##div.div-gpt-ad-*
+##div.ad_*
+##div.real_toast
+##div.scrollDiv
