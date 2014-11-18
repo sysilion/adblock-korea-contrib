@@ -1,4 +1,4 @@
-[Adblock Plus 1.1]
+[AdBlock Plus 1.1]
 !Test
 ##div.div-gpt-ad-*
 ##div.ad_*
