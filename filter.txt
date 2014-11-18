@@ -16,3 +16,8 @@
 ||s120.turbobit.ru/pics/9C35BD8F6BA3FE62_eng.jpg
 ||outbanner.hu.co.kr^
 ||cdn.vidible.tv^
+!testing floating ad js
+||js.hnscom.com^
+||js2.keywordsconnect.com^
+||cas.criteo.com^
+||tags.mathtag.com^
