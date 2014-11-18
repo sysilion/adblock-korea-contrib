@@ -19,5 +19,6 @@
 !testing floating ad js
 ||js.hnscom.com^
 ||js2.keywordsconnect.com^
+||cm.keywordsconnect.com^
 ||cas.criteo.com^
 ||tags.mathtag.com^
