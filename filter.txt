@@ -1,16 +1,16 @@
 [AdBlock Plus 1.1]
 !Test
-##div#div-gpt-ad-*
-##div#ad_*
-##div#real_toast
-##div#scrollDiv
-##div[style=^"position: fixed; z-index: 1000; width: 100px; height: 100px;"]
-##div[id="ticket_banner"]
-##div#isx.neo_container.clear
-##div.da_area_bot
-##div#adpostArea
-##div#hns_ad*
-##div#iconad
+###div-gpt-ad-*
+###ad_*
+###real_toast
+###scrollDiv
+##[style=^"position: fixed; z-index: 1000; width: 100px; height: 100px;"]
+##[id="ticket_banner"]
+###isx.neo_container.clear
+##.da_area_bot
+###adpostArea
+###hns_ad*
+###iconad
 ||sosa.semanticrep.com^
 ||cm.keywordsconnect.com^
 ||event.urdv.net/smps/*
