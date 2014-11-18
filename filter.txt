@@ -4,3 +4,4 @@
 ##div.ad_*
 ##div.real_toast
 ##div.scrollDiv
+##div[style^="position: fixed; z-index: 1000; width: 100px; height: 100px; left: 20px; top: 260px"]
