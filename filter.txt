@@ -5,3 +5,14 @@
 ##div.real_toast
 ##div.scrollDiv
 ##div[style^="position: fixed; z-index: 1000; width: 100px; height: 100px; left: 20px; top: 260px"]
+##div[id="ticket_banner"]
+##div.advertisement spotlight ^
+##div#isx.neo_container.clear
+##div.da_area_bot
+##div#adpostArea
+||sosa.semanticrep.com^
+||cm.keywordsconnect.com^
+||event.urdv.net/smps/*
+||s120.turbobit.ru/pics/9C35BD8F6BA3FE62_eng.jpg
+||outbanner.hu.co.kr^
+||cdn.vidible.tv^
