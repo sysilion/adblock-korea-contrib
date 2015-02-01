@@ -1,4 +1,5 @@
 [AdBlock Plus 1.1]
+s-m.primary.ebs.co.kr##DIV[class="banner_img"]
 ##.banner_img
 !Test
 ###ad_*
