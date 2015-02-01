@@ -1,4 +1,5 @@
 [AdBlock Plus 1.1]
+##.banner_img
 !Test
 ###ad_*
 ###real_toast
