@@ -1,4 +1,7 @@
 [AdBlock Plus 1.1]
+/NetInsight/*
+||daum.net/shopping/$subdocument
+!!!!!!!!!!!!!!!!!!!!!!! update?
 s-m.primary.ebs.co.kr##DIV[class="banner_img"]
 ##.banner_img
 !Test
