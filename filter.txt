@@ -1,4 +1,9 @@
 [AdBlock Plus 1.1]
+box.wimy.com##DIV[id="banner"]
+searchpang.com##DIV[class="col-xs-12"]
+@@||adr.realclick.co.kr$domain=mangaumaru.com
+www.mangaumaru.com##DIV[id="fbanner"][class="floating-banner"]
+! 04-19 mangaumaru, searchpang, wimybox
 /NetInsight/*
 ||daum.net/shopping/$subdocument
 !!!!!!!!!!!!!!!!!!!!!!! update?
