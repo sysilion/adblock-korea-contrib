@@ -1,4 +1,6 @@
 [AdBlock Plus 1.1]
+clien.net##div[style="clear:both;width:780px; height:115px; padding:0px; text-align:center;padding-left:5px;"]
+! 05-12 clien.net under content gmarket ads
 box.wimy.com##DIV[id="banner"]
 searchpang.com##DIV[class="col-xs-12"]
 @@||adr.realclick.co.kr$domain=mangaumaru.com
