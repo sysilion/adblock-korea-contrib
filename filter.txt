@@ -1,4 +1,6 @@
 [AdBlock Plus 1.1]
+@@||hayan.tv/adsbygoogle.js
+! 05-18 hayan.tv block adblock script
 clien.net##div[style="clear:both;width:780px; height:115px; padding:0px; text-align:center;padding-left:5px;"]
 ! 05-12 clien.net under content gmarket ads
 box.wimy.com##DIV[id="banner"]
