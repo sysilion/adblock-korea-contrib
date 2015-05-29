@@ -1,6 +1,7 @@
 [AdBlock Plus 1.1]
-tvzil.com###adArea
-tvzil.com###bottomBanner
+tvzil.*###adArea
+tvzil.*###draggable
+tvzil.*###bottomBanner
 torrentdn.com##A[href="/to_toy.html"]
 torrentdn.com##A[href="/to_toptoon.html"]
 torrentdn.com##DIV[style="float:left;width:130px;border:1;margin:5px;word-break: break-all;"]
