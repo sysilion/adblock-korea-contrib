@@ -1,4 +1,5 @@
 [AdBlock Plus 1.1]
+ppomppu.co.kr###pp_ban_bbs_view
 tvzil.*###adArea
 tvzil.*###draggable
 tvzil.*###bottomBanner
