@@ -1472,3 +1472,5 @@ inven.co.kr###dhoAdTop
 inven.co.kr###webzineAdTop
 ||channel.pandora.tv/channel_v1/ad_frame.ptv
 channel.pandora.tv###pause_banner_Big
+@@||imgcdn.pandora.tv/_ptv_all/player/pandora.ad.v2.js
+||www.pandora.tv/gnb/gnb.ptv
