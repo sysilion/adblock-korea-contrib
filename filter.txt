@@ -40,6 +40,10 @@ s-m.primary.ebs.co.kr##DIV[class="banner_img"]
 ||tags.mathtag.com^
 ||sp1.jssearch.net^
 ||adv.realclick.co.kr^
+||channel.pandora.tv/channel_v1/ad_frame.ptv
+channel.pandora.tv###pause_banner_Big
+@@||imgcdn.pandora.tv/_ptv_all/player/pandora.ad.v2.js
+||www.pandora.tv/gnb/gnb.ptv
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 !
 ! Filters imported from https://code.google.com/p/adblock-korea/ under permission
@@ -1470,7 +1474,4 @@ zdnet.co.kr##.news_txt_ad
 ygosu.com##.ad700
 inven.co.kr###dhoAdTop
 inven.co.kr###webzineAdTop
-||channel.pandora.tv/channel_v1/ad_frame.ptv
-channel.pandora.tv###pause_banner_Big
-@@||imgcdn.pandora.tv/_ptv_all/player/pandora.ad.v2.js
-||www.pandora.tv/gnb/gnb.ptv
+
