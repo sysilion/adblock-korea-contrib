@@ -3,8 +3,7 @@
 ! Expires: 3 days (update frequency)
 ! Homepage: https://github.com/gfmaster/adblock-korea-contrib
 !
-ad.adnmore.co.kr/*
-sosa.semanticrep.com/*
+gall.dcinside.com##.google_banner
 ppomppu.co.kr###pp_ban_bbs_view
 tvzil.*###adArea
 tvzil.*###draggable
