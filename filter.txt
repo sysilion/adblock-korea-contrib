@@ -1,4 +1,6 @@
 [AdBlock Plus 1.1]
+ad.adnmore.co.kr/*
+sosa.semanticrep.com/*
 ppomppu.co.kr###pp_ban_bbs_view
 tvzil.*###adArea
 tvzil.*###draggable
