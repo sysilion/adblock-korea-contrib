@@ -1467,3 +1467,4 @@ zdnet.co.kr##.news_txt_ad
 ygosu.com##.ad700
 inven.co.kr###dhoAdTop
 inven.co.kr###webzineAdTop
+||img.etnews.com/*/banner/
