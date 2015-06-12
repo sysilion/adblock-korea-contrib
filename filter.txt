@@ -6,7 +6,6 @@ tvzil.*###bottomBanner
 torrentdn.com##A[href="/to_toy.html"]
 torrentdn.com##A[href="/to_toptoon.html"]
 torrentdn.com##DIV[style="float:left;width:130px;border:1;margin:5px;word-break: break-all;"]
-@@||hayan.tv/adsbygoogle.js
 clien.net##div[style="clear:both;width:780px; height:115px; padding:0px; text-align:center;padding-left:5px;"]
 box.wimy.com##DIV[id="banner"]
 searchpang.com##DIV[class="col-xs-12"]
@@ -161,18 +160,11 @@ _realclick
 ||postfiles6.naver.net/20121024_181/mn060_1351052420180teXbw_GIF/%BA%ED%B7%CE%B1%D7%C0%A7%C1%AC.gif^
 ||vitaminnews.co.kr/script/banner.js
 ||zum.com/swf/zum.swf
-||1.234.6.101/nocutnews/images/socialplugin_banner_268.png
-||10086chongzhi.com/jpg.js
-||10086chongzhi.com/news.htm^
-||10086chongzhi.com/swfobject.js
 ||116.122.159.14/Check.html^
 ||11st.co.kr/connect/Gateway.tmall^$third-party
 ||121.78.90.104:8383/pv^
 ||121.78.90.99/LivereAD/
 ||192.169.105.249^$third-party
-||203.238.37.180^
-||209.128.123.21/images/gwango/
-||209.222.8.217^
 ||211.111.219.37:8088/images/response.gif
 ||211.111.219.37:8088/tm/response/response.do^
 ||211.115.110.127/js/acecounter_tracking_source_edit.js
